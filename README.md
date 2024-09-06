@@ -93,10 +93,11 @@ y_prednew=predict(theta,xnew)
 print(y_prednew)
 ```
 ## Output:
+#ACCURACY:
 ![Screenshot 2024-09-06 113506](https://github.com/user-attachments/assets/ba8d67e7-38d2-48e8-9a7f-6f83e5368bc4)
-
+#Y-PREDICT:
 ![Screenshot 2024-09-06 113519](https://github.com/user-attachments/assets/a2492959-cd34-48fb-9c2a-ff9af02d7710)
-
+#Y PREDICT NEW:
 ![Screenshot 2024-09-06 113534](https://github.com/user-attachments/assets/b4199523-2265-4e0a-a790-abd4742fadeb)
 
 ![Screenshot 2024-09-06 113731](https://github.com/user-attachments/assets/16567f90-97eb-4aab-8d0c-c1f56170d5d5)
